@@ -1,7 +1,7 @@
-# SQL INTERVIEW PREPARATION
+
 ## Azure Data Engineer | Data Engineer | SQL Developer
 
-> Complete SQL theory + query preparation guide for technical interviews.
+> Complete SQL theory + query preparation.
 >
 > Focus: SQL fundamentals, joins, subqueries, correlated subqueries, CTEs,
 > window functions, transactions, ACID, indexing, concurrency, optimization,
